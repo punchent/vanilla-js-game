@@ -1,0 +1,31 @@
+{
+  "name": "vanilla-js-game",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000v\u0000a\u0000n\u0000i\u0000l\u0000l\u0000a\u0000-\u0000j\u0000s\u0000-\u0000g\u0000a\u0000m\u0000e\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/punchent/vanilla-js-game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/punchent/vanilla-js-game/issues"
+  },
+  "homepage": "https://github.com/punchent/vanilla-js-game#readme",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.24.2",
+    "parcel-bundler": "^1.12.5",
+    "prettier": "^2.4.1"
+  },
+  "browserslist": [
+    "last 5 Firefox versions"
+  ]
+}
